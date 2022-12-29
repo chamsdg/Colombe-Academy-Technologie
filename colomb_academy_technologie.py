@@ -7,7 +7,7 @@ Created on Thu Dec 29 09:10:07 2022
 
 # importer les librairies.
 import streamlit as st
-import plotly.express as px
+# import plotly.express as px
 
 # occuper tous l'ecran.
 st.set_page_config(layout="wide")
