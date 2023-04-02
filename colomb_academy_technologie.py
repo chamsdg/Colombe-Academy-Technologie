@@ -106,7 +106,7 @@ with niveau:
                 with professeur:
                     nom_professeur = st.selectbox(
                         "Le professeur chargé du cours",
-                        ("To ask at Malick", " "),disabled = True,)
+                        ("Serge Alexandre Boissy", " "),disabled = True,)
   
     
 #---------------------------------------------------------------------------------------------#
