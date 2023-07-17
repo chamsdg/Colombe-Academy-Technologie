@@ -7,4 +7,4 @@ Pour un meilleur suivi des differents modules, j'ai decider de creer cd dashboar
 Celui ci permettra au directeur pedagagique d'avoir une vue sur toutes les filiere du master et parallelement de connaitre l'état d'avancement de chaque module.
 Le dashboard est mis à jours chaque fin de semaine, et il est disponible sur share streamlit à travers le lien ci dessous:
 
-https://chamsdg-colombe-academy-techn-colomb-academy-technologie-v12f8a.streamlit.app/
+
